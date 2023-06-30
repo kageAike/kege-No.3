@@ -1,0 +1,2 @@
+C:\Users\m1868\Desktop\面对对象的C++\程序\选课系统_镜像1\x64\Debug\选课系统_镜像1.exe
+C:\Users\m1868\Desktop\面对对象的C++\程序\选课系统\x64\Debug\选课系统_镜像1.exe
